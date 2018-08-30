@@ -1,0 +1,3 @@
+package GameCode
+
+class HintMaker

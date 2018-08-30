@@ -1,0 +1,3 @@
+package InputChecker
+
+class InputChecker
