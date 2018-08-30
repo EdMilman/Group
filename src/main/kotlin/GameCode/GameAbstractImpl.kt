@@ -1,6 +1,5 @@
-package gameCode
+package GameCode
 
-import GameCode.HintMaker
 import InputChecker.InputChecker
 import Pegs.Peg
 

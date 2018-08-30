@@ -1,4 +1,4 @@
-package gameCode
+package GameCode
 
 /**
  * game interface for modelling a game of Mastermind
